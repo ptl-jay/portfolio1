@@ -1,0 +1,9 @@
+#counter .item {
+
+  -webkit-box-shadow: 0px 0px 38px -8px rgba(0, 0, 0, 0.34);
+  -moz-box-shadow: 0px 0px 38px -8px rgba(0, 0, 0, 0.34);
+  box-shadow: 0px 0px 38px -8px rgba(0, 0, 0, 0.34);
+}
+.navbar-nav .nav-link:hover{
+  color: #d63384;
+}
